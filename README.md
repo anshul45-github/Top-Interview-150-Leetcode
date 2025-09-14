@@ -6,7 +6,7 @@ This repository contains my personal C++ solutions for the problems listed in th
 
 This is an ongoing project. I am actively working on solving and adding more solutions from the list. Contributions and suggestions are welcome!
 
-**Progress: 65 / 150 Problems Solved**
+**Progress: 64 / 150 Problems Solved**
 
 [████████░░░░░░░░░░░░░░] 43%
 
